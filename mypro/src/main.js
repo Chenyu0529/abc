@@ -56,7 +56,9 @@ var routes=[
 	{path:'/mywrite',component:Mywrite},
 	{path:'/activitied',component:Activitied},
 	{path:'/messes',component:Messes},
-	{path:'/secsetting',component:Secsetting},
+	
+
+{path:'/secsetting',component:Secsetting},
 	{path:'/sugg',component:Sugg},
 	{path:'/cirde',component:Cirde},
 	{path:'/gamesde',component:Gamesde},
