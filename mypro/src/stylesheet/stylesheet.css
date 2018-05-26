@@ -1,0 +1,24 @@
+*{
+	padding:0;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #ccc;
+}
+h1,h2,h3,span,b,i,em,th,tr{
+	font-style: normal;
+	font-weight: normal;
+}
+.clear:after{
+	content: "";
+	clear: both;	
+	display: block;
+	visibility: hidden;
+}
+.wrapper{
+	margin: 0 10px;
+}
