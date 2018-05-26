@@ -29,6 +29,12 @@ import Activitied from './components/activitied.vue'
 import Messes from './components/messes.vue'
 import Secsetting from './components/secsetting.vue'
 import Sugg from './components/sugg.vue'
+
+import Games from './components/games.vue'
+import Newde from './components/newde.vue'
+import List from './components/list.vue'
+import Kinds from './components/kinds.vue'
+import Gift from './components/gift.vue'
 import $ from 'jquery'
  
 
